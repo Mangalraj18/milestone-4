@@ -1,0 +1,5 @@
+18:16:53.715 [main] INFO  com.yatra.stepDefinition.Homepage_stepdefinition - Place details are entered
+18:16:58.011 [main] INFO  com.yatra.stepDefinition.Homepage_stepdefinition - Date is entered
+18:17:03.619 [main] INFO  com.yatra.stepDefinition.Homepage_stepdefinition - Search flights button is entered
+18:17:05.351 [main] INFO  com.yatra.stepDefinition.Homepage_stepdefinition - Clicked on offers
+18:17:05.687 [main] INFO  com.yatra.stepDefinition.Homepage_stepdefinition - Highlighted words is verified

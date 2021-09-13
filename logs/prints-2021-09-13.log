@@ -1,0 +1,5 @@
+12:56:42.432 [main] INFO  com.marriott.stepDefinition.Homepage_stepdefinition - JW-Marriott is verified
+12:56:42.458 [main] INFO  com.marriott.stepDefinition.Homepage_stepdefinition - validated successfully
+12:57:20.191 [main] INFO  com.marriott.stepDefinition.Homepage_stepdefinition - Destination is sent
+12:57:20.529 [main] INFO  com.marriott.stepDefinition.Homepage_stepdefinition - Find hotels is clicked
+12:57:36.280 [main] INFO  com.marriott.stepDefinition.Homepage_stepdefinition - Find hotels is clicked

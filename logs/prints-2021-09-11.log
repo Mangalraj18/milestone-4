@@ -1,0 +1,5 @@
+22:02:33.555 [main] INFO  com.yatra.stepDefinition.Homepage_stepdefinition - Date is entered
+22:02:33.558 [main] ERROR com.yatra.stepDefinition.Homepage_stepdefinition - Date is not entered
+22:02:33.570 [main] INFO  com.yatra.stepDefinition.Homepage_stepdefinition - Search flights button is entered
+22:02:33.570 [main] ERROR com.yatra.stepDefinition.Homepage_stepdefinition - Search flights button is not entered
+22:02:33.601 [main] INFO  com.yatra.stepDefinition.Homepage_stepdefinition - Clicked on offers
